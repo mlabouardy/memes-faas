@@ -4,6 +4,6 @@ provider:
 
 functions:
   memes-9gag:
-    lang: Dockerfile
+    lang: go
     handler: ./function
     image: mlabouardy/memes-9gag
