@@ -7,3 +7,4 @@ functions:
     lang: go
     handler: ./function
     image: mlabouardy/memes-9gag
+
